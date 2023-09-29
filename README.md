@@ -14,6 +14,4 @@ As a result of our interest in wireless radio technology, we actively "war-drive
 <img border="0" src="https://wigle.net/bi/iUf4AJGzrI7WuQL1B2QzJw.png">
 </a>
 
----
-### *Threat Analysis & Monitoring*
 
